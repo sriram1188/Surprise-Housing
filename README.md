@@ -12,27 +12,27 @@ You are required to model the price of houses with the available independent var
 
 
 ## Table of Contents
-General Info
-Technologies Used
-Conclusions
-Acknowledgements
+- General Info
+- Technologies Used
+- Conclusions
+
 
 ## General Information
-Clean the data
-Perform EDA
-Prepare the data for modeling
-Find the best option between Ridge and Lasso
+- Clean the data
+- Perform EDA
+- Prepare the data for modeling
+- Find the best option between Ridge and Lasso
 
 ## Conclusions
 Lasso is better than Ridge for this model
 
 ## Technologies Used
-Pandas
-NumPy
-MatPlotLib
-Seaborn
-SKlearn
-StatsModel
+- Pandas
+- NumPy
+- MatPlotLib
+- Seaborn
+- SKlearn
+- StatsModel
 
 Contact
 Created by [@sriram1188-Sriram] - feel free to contact me!
